@@ -1,0 +1,1 @@
+export PSPLASH_FIFO_DIR=/run
